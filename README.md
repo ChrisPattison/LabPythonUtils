@@ -10,3 +10,5 @@ error - Mumerically propogates error in an arbitrary function
 bode - Makes a bode plot of a circuit using a Tektronix TDS1002B and Stanford Research Systems DS345 takes 7.5s per data point.
 
 bode_err - Plots output of bode and theoretical values of an LRC circuit
+
+v_measure - Measures the Johnson noise of a resistor
